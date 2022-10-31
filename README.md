@@ -5,6 +5,7 @@
 [![androidweekly.cn](https://img.shields.io/badge/androidweekly.cn-%23153-red.svg)](http://androidweekly.cn/android-dev-weekly-issue-153/)
 [ ![Download](https://api.bintray.com/packages/nonews/maven/nopermission/images/download.svg) ](https://bintray.com/nonews/maven/nopermission/_latestVersion)
 [![API](https://img.shields.io/badge/API-15%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=null)
+[![](https://jitpack.io/v/pruebadehack/NoPermission.svg)](https://jitpack.io/#pruebadehack/NoPermission)
 
 Deprecated. 
 
